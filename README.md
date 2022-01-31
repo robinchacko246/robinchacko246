@@ -6,7 +6,7 @@ I am an ambitious computer science engineer, an open-source enthusiast, Full Sta
 
 - 🌱 I’m currently learning Problem solving and Web Development
 - 💼 BackEnd Engineer at [Emvigo Technologies](https://www.emvigotech.com/)
-- 💼 Back End Developer on a mission to get next 10 billion smart devices connected | Cavli Wireless  (https://www.cavliwireless.com/)
+- 💼 Back End Developer on a mission to get next 10 billion smart devices connected | [Cavli Wireless](https://www.cavliwireless.com/)
 - ❤️ I love writing JavaScript, and building fun experiments on type-level
 - 💬 Ask me about anything [here](https://github.com/robinchacko246/robinchacko246/issues)
 - 😄 Pronouns: He/His/Him
