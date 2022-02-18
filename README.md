@@ -19,7 +19,7 @@ LiveWeb=>https://fooddeliveryappnextjs.herokuapp.com/
 
 2)Nodejs CMS For a Freelance IT company GITHUB REPO=>https://github.com/robinchacko246/CMS-expressjs 
 
-  LIVE WEB=> https://netotech.herokuapp.com/
+  LIVE WEB=> http://netotechsolutions.in/
 
 3)Elearn LMS platform using React and Nodejs,MongoDB 
 
